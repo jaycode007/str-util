@@ -18,4 +18,11 @@
             $count = sizeof($words);
             return $count;
         }
+
+        public static function countCharacters(string $text){
+            $count = 0;
+            $text = trim($text);
+            $count = strlen($text);
+            return $count;
+        }
     }
