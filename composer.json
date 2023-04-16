@@ -15,7 +15,4 @@
              "StrUtil": "src/"
          }
     },
-    "require": {
-        "php": ">=7.2"
-    }
  }
