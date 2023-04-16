@@ -1,18 +1,18 @@
 {
     "name": "jaycode007/str-util",
-    "description": "A Sample Code.",
+    "description": "A simple word count script.",
     "type": "library",
-    "license": "MIT",
-    "authors": [
+    "license": "Mit",
+    "require": {},
+	"autoload": {
+        "psr-0": {
+             "StrUtil": "src/"
+         }
+    },
+	"authors": [
         {
             "name": "Jay Code",
             "email": "ann072167@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-0": {
-             "StrUtil": "src/"
-         }
-    },
- }
+}
