@@ -1,0 +1,21 @@
+{
+    "name": "jaycode007/str-util",
+    "description": "A Sample Code.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Code",
+            "email": "ann072167@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+             "StrUtil": "src/"
+         }
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+ }
