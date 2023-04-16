@@ -8,11 +8,5 @@
         "psr-0": {
              "StrUtil": "src/"
          }
-    },
-	"authors": [
-        {
-            "name": "Jay Code",
-            "email": "ann072167@gmail.com"
-        }
-    ],
+    }
 }
