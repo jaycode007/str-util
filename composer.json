@@ -8,5 +8,7 @@
         "psr-0": {
              "StrUtil": "src/"
          }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
